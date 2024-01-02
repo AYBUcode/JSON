@@ -1,0 +1,124 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "address": "123 Main St, Cityville",
+      "gender": "Male",
+      "phone": {
+        "mobile": "+1234567890",
+        "home": "+9876543210",
+        "office": "+1122334455"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "address": "456 Oak Ave, Townsville",
+      "gender": "Female",
+      "phone": {
+        "mobile": "+9876543210",
+        "home": "+1234567890",
+        "office": "+5544332211"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "address": "789 Pine Rd, Villageton",
+      "gender": "Male",
+      "phone": {
+        "mobile": "+1122334455",
+        "home": "+5544332211",
+        "office": "+9876543210"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Alice Williams",
+      "email": "alice.williams@example.com",
+      "address": "321 Elm Blvd, Hamletville",
+      "gender": "Female",
+      "phone": {
+        "mobile": "+5544332211",
+        "home": "+1122334455",
+        "office": "+1234567890"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "address": "654 Birch Ln, Countryside",
+      "gender": "Male",
+      "phone": {
+        "mobile": "+9876543210",
+        "home": "+5544332211",
+        "office": "+1122334455"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Eva Miller",
+      "email": "eva.miller@example.com",
+      "address": "987 Cedar Ct, Riverside",
+      "gender": "Female",
+      "phone": {
+        "mobile": "+1234567890",
+        "home": "+9876543210",
+        "office": "+5544332211"
+      }
+    },
+    {
+      "id": 7,
+      "name": "David Davis",
+      "email": "david.davis@example.com",
+      "address": "147 Willow Dr, Suburbia",
+      "gender": "Male",
+      "phone": {
+        "mobile": "+5544332211",
+        "home": "+1234567890",
+        "office": "+9876543210"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Fiona White",
+      "email": "fiona.white@example.com",
+      "address": "258 Maple Ave, Metropolis",
+      "gender": "Female",
+      "phone": {
+        "mobile": "+1122334455",
+        "home": "+9876543210",
+        "office": "+5544332211"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Gary Green",
+      "email": "gary.green@example.com",
+      "address": "369 Sycamore St, Uptown",
+      "gender": "Male",
+      "phone": {
+        "mobile": "+9876543210",
+        "home": "+5544332211",
+        "office": "+1122334455"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Helen Black",
+      "email": "helen.black@example.com",
+      "address": "456 Pinecrest Rd, Downtown",
+      "gender": "Female",
+      "phone": {
+        "mobile": "+1122334455",
+        "home": "+9876543210",
+        "office": "+5544332211"
+      }
+    }
+  ]
+}
